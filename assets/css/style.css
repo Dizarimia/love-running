@@ -14,7 +14,8 @@ body {
 
 /* headings and logo */
 
-h1, h2 {
+h1,
+h2 {
     font-family: oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -25,15 +26,16 @@ h1, h2 {
     float: left;
     font-size: 280%;
 }
+
 /* navigation links */
 
 #menu {
     font-size: 110%;
-letter-spacing: 4px;
+    letter-spacing: 4px;
 }
 
 #menu li {
     float: right;
     list-style-type: none;
-    margin-right:30px ;
+    margin-right: 30px;
 }
